@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>Posts on My New Hugo Project</title>
+		<title>Posts on Unofficial 0 A.D. Website!!!</title>
 		<link>http://localhost:1313/posts/</link>
-		<description>Recent content in Posts on My New Hugo Project</description>
+		<description>Recent content in Posts on Unofficial 0 A.D. Website!!!</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
@@ -14,11 +14,18 @@
 		
 			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
-				<title>My First Post</title>
-				<link>http://localhost:1313/posts/my-first-post/</link>
+				<title>Release 28</title>
+				<link>http://localhost:1313/posts/release28/</link>
 				<pubDate>Fri, 30 Oct 2026 11:35:27 -0400</pubDate>
-				<guid>http://localhost:1313/posts/my-first-post/</guid>
-				<description>&lt;p&gt;cheeses and pickle are supper yimmy&lt;/p&gt;</description>
+				<guid>http://localhost:1313/posts/release28/</guid>
+				<description>&lt;p&gt;0 A.D. 28 is now released as of Feburary 28 or something!&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Switch to Hugo</title>
+				<link>http://localhost:1313/posts/switchtohugo/</link>
+				<pubDate>Fri, 30 Oct 2026 11:35:27 -0400</pubDate>
+				<guid>http://localhost:1313/posts/switchtohugo/</guid>
+				<description>&lt;p&gt;This site now uses Hugo!&lt;/p&gt;</description>
 			</item>
 	</channel>
 </rss>
